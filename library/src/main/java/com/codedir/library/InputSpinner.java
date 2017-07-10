@@ -9,9 +9,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
 
-/**
- * Created by DEVUSER97 on 7/10/2017.
- */
 
 public class InputSpinner extends AppCompatEditText {
     ListAdapter adapter;
