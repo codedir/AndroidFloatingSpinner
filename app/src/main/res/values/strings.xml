@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Floating Spinner</string>
+    <string name="hint">Item</string>
+</resources>
