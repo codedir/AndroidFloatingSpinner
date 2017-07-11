@@ -7,6 +7,11 @@
   
  ___
  
+ Screenshots
+ -----
+ 
+<img src="./screenshots/image1.png" width="250">&emsp;&emsp;<img src="./screenshots/image2.png" width="250">&emsp;&emsp;<img src="./screenshots/image3.png" width="250">
+ 
  Usage
 -----
 
